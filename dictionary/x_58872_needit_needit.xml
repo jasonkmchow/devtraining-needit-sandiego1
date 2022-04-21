@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="AAA" max_length="80" name="aaa" type="field_name"/>
+        <element label="CCC" max_length="40" name="ccc" type="string"/>
+        <element label="123456" max_length="80" name="u_123456jknkhkhk" read_only="true" type="field_name"/>
+    </element>
+</database>
